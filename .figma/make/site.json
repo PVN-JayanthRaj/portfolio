@@ -1,0 +1,10 @@
+{
+  "description": "Showcase a developer’s projects, skills, and experience in a polished portfolio that helps potential employers and clients explore their work.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
