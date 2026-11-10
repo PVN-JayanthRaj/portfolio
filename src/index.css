@@ -335,7 +335,7 @@ footer a:hover::after {
   inset: 0;
   display: grid;
   place-items: center;
-  font: 400 clamp(24px, 5vw, 72px) "DM Mono";
+  font-size: 1.5rem !important;
 }
 .project-info {
   display: grid;
@@ -769,7 +769,7 @@ footer a {
   .morrow-word {
     left: 9%;
     top: 30%;
-    font-size: 25vw;
+    font-size: 4rem;
   }
   .lime-shape {
     right: 10%;
